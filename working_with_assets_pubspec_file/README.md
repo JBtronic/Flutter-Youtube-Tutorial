@@ -1,16 +1,9 @@
-# first_app
+# Assets in Flutter and Pubspec File
 
-A new Flutter project.
+In this app, I will tell you how to insert Image Assets in Flutter. How to Configure it in Pubspec.YAML file in order to use those images in our app.
 
-## Getting Started
+Check this video on how to work with Assets in Flutter : https://youtu.be/ADFu3lYbcgk
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![vlcsnap-2023-01-22-00h30m19s358-removebg-preview.png](https://i.postimg.cc/j5CZfmqD/vlcsnap-2023-01-22-00h30m19s358-removebg-preview.png)](https://postimg.cc/MM272sQw)

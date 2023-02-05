@@ -1,16 +1,9 @@
-# container_widget
+# Container Widget in Flutter
 
-A new Flutter project.
+In this app, We will look into our Container Widget which is a fundamental widget that we will use all the time for laying out your app. Flutter's container class is a useful widget that combines the standard painting, positioning, and scaling of widgets. To store one or more widgets and arrange them on the screen as we see fit, we can use a container class. A container is essentially a box used to keep goods.
 
-## Getting Started
+Check this video on how to work with Assets in Flutter : https://youtu.be/5zFn3vhd1T8
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![vlcsnap-2023-02-05-15h44m22s093.png](https://i.postimg.cc/8zJPZzmK/vlcsnap-2023-02-05-15h44m22s093.png)](https://postimg.cc/18SQtPTw)

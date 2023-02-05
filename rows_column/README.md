@@ -1,16 +1,11 @@
-# rows_column
+# Rows & Columns in Flutter
 
-A new Flutter project.
+In this app, I will tell you about Rows & Columns Widgets in Flutter. How to use all different types of properties in it. 
 
-## Getting Started
+Rows are a group of cells arranged horizontally to provide uniformity. Columns are a group of cells aligned vertically, and they run from top to bottom.
 
-This project is a starting point for a Flutter application.
+Check this video on how to create your first app on Flutter : https://youtu.be/g4HKSoVnAdo
 
-A few resources to get you started if this is your first Flutter project:
+# Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![vlcsnap-2023-02-05-15h54m59s646.png](https://i.postimg.cc/GmG9cpTB/vlcsnap-2023-02-05-15h54m59s646.png)](https://postimg.cc/v48GhbzM)

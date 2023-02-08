@@ -1,16 +1,9 @@
-# portfolio_app
+# Portfolio App in Flutter
 
-A new Flutter project.
+In this App, I have shown you how to create a portfolio app in a flutter. I will explain how to use different widgets and layout properties to make the most beautiful and responsive portfolio app in flutter which supports mobile, desktop, and web.
 
-## Getting Started
+Check this video on how to create your first app on Flutter : https://youtu.be/FBGk35lpfMU
 
-This project is a starting point for a Flutter application.
+# Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Portfolio App in Flutter.png](https://i.postimg.cc/kXm0F3BC/Portfolio App in Flutter.png)](https://postimg.cc/nMKmyYkq)

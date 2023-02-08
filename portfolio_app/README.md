@@ -6,4 +6,4 @@ Check this video on how to create your first app on Flutter : https://youtu.be/F
 
 # Screenshot
 
-[![Portfolio App in Flutter.png](https://i.postimg.cc/kXm0F3BC/Portfolio App in Flutter.png)](https://postimg.cc/nMKmyYkq)
+[![Portfolio-App-in-Flutter.png](https://i.postimg.cc/44q1hWH2/Portfolio-App-in-Flutter.png)](https://postimg.cc/nMKmyYkq)

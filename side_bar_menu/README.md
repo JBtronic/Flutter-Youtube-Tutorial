@@ -1,16 +1,9 @@
-# side_bar_menu
+# Side Bar Menu in Flutter
 
-A new Flutter project.
+In this app, I will demonstrate you how to create a navigation menu or we can say side bar menu in a flutter. I have used different widgets for UI and layout properties to make the most beautiful and responsive navigation drawer in flutter which supports mobile, desktop, and web.
 
-## Getting Started
+Check this video on how to create your first app on Flutter : https://youtu.be/MgThzxsuy9E
 
-This project is a starting point for a Flutter application.
+# Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![sidebarnav.png](https://i.postimg.cc/CLhs7Wt7/sidebarnav.png)](https://postimg.cc/jC1fdkRn)

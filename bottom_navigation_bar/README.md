@@ -1,16 +1,10 @@
-# flutter_application_1
+# Bottom Navigation Bar in Flutter
 
-A new Flutter project.
+In this app, I will show how you can create your own custom Bottom App Bar with Flutter. 
+A step-by-step guide to using the bottom navigation bar. This is a flutter tutorial for beginners.
 
-## Getting Started
+Check this video on how to work with Assets in Flutter : https://youtu.be/2wyCBlz9lnw
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![vlcsnap-2023-02-19-23h45m46s928-Copy-3.png](https://i.postimg.cc/Gmcg5ZQF/vlcsnap-2023-02-19-23h45m46s928-Copy-3.png)](https://postimg.cc/2VKxq9gy)

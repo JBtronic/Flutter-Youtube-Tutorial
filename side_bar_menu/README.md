@@ -2,7 +2,7 @@
 
 In this app, I will demonstrate you how to create a navigation menu or we can say side bar menu in a flutter. I have used different widgets for UI and layout properties to make the most beautiful and responsive navigation drawer in flutter which supports mobile, desktop, and web.
 
-Check this video on how to create your first app on Flutter : https://youtu.be/MgThzxsuy9E
+Check this video on how to create side bar menu on Flutter : https://youtu.be/MgThzxsuy9E
 
 # Screenshot
 

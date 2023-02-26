@@ -1,16 +1,9 @@
-# toss_coin
+# Toss a Coin App in Flutter
 
-A new Flutter project.
+In this app, I have created Flip a coin app with animation in Flutter.
 
-## Getting Started
+Check this video on how to make Toss a Coin App on Flutter : https://youtu.be/yNcsdxB13Dk
 
-This project is a starting point for a Flutter application.
+# Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![vlcsnap-2023-02-27-01h25m54s882-removebg-preview.png](https://i.postimg.cc/Ss2XzCSq/vlcsnap-2023-02-27-01h25m54s882-removebg-preview.png)](https://postimg.cc/njxVys9w)

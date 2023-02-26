@@ -4,7 +4,7 @@ In this app, I will tell you about Rows & Columns Widgets in Flutter. How to use
 
 Rows are a group of cells arranged horizontally to provide uniformity. Columns are a group of cells aligned vertically, and they run from top to bottom.
 
-Check this video on how to create your first app on Flutter : https://youtu.be/g4HKSoVnAdo
+Check this video on what is Rows & Columns Widgets in Flutter : https://youtu.be/g4HKSoVnAdo
 
 # Screenshot
 

@@ -1,16 +1,12 @@
-# icons
+# Add Icon with Text Field in Flutter
 
-A new Flutter project.
+In this app, you will see how to add icons with TextField in Flutter.
+We will use TextField Widget and an Icon Widget and Text Editing Controller with considering UI responsiveness. 
 
-## Getting Started
+Check this video on how to Add Icon with Text Field in Flutter : https://youtu.be/0GY07tovOu8
 
-This project is a starting point for a Flutter application.
+# Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+[![123.png](https://i.postimg.cc/vHxdftDG/123.png)](https://postimg.cc/zVNM1WnQ)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
